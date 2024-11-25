@@ -294,7 +294,7 @@ button:hover {
     .icon-2{
         text-align: center;
         justify-content: center;
-        width: au;
+        width: auto;
     }
     .paragraph-heading{
         width: auto;
